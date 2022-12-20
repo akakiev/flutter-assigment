@@ -1,15 +1,13 @@
 # flutter_assigment
 
-A new Flutter project.
+Solution for widget basics assigment problem in 'Flutter & Dart - The complete guide[2023 Edition]' Udemy course.
+1) Created a new Flutter App (in this project) and output an AppBar and text 'Hello world!'.
+2) Added a button which changes the text (to 'I am a new flutter developer!').
+3) Splited the app into three widgets: App, TextControl & UpdateText.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project is a starting point for my career as a Flutter Developer.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
